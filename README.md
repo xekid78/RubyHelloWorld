@@ -1,0 +1,2 @@
+# RubyHelloWorld
+HelloWorldと表示
